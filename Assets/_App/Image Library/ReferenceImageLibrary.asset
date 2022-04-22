@@ -23,5 +23,15 @@ MonoBehaviour:
       m_GuidHigh: 8743943996791778570
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
-    m_Name: ar_marker
+    m_Name: oscilloscope-marker
     m_Texture: {fileID: 2800000, guid: 5f43fccbb01005b40aedaed8bcba5879, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4842818743189177897
+      m_GuidHigh: 2447340586092098190
+    m_SerializedTextureGuid:
+      m_GuidLow: 8175231493066238707
+      m_GuidHigh: 11534136904095894219
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: powerSupply-marker
+    m_Texture: {fileID: 2800000, guid: 8cccaaf341ba7174cb0a5c5f677c11a0, type: 3}
